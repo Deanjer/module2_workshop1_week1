@@ -54,4 +54,21 @@
   .wieis{
     width: 38%;
     float:right;
+    margin-top: -500px;
+  }
+  .wozniaktekst1{
+    width: 48%;
+    float: right;
+    margin-top: -460px;
+  }
+  .wozniakimg3{
+    width: 48%;  
+    float: right;
+  }
+  .wath2{
+    display: inline-block;
+    width: 48%;
+    padding-top: 20px;
+    margin-left: 80px;
+    margin-top: 10px;
   }
